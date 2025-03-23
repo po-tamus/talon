@@ -12,9 +12,6 @@ creating a model from scratch allows for more customization and control over the
 features, improve performance, and customize the appearance.
 
 **Pre-designed Models:**
-
-You can find pre-designed 3D globe models in various formats (e.g., OBJ, STL, 3DS) from:
-
 * Online marketplaces like GrabCAD or Thingiverse
 * 3D modeling communities like CGTrader or Polycount
 * Three.js GitHub repository (search for "globe" or "sphere")
@@ -37,16 +34,12 @@ settings.
 
 **Customization and Details:**
 
-To create a more accurate and detailed globe model, consider the following:
-
 * Use high-resolution texture maps for countries and regions.
 * Add 3D meshes for key trade routes, choke points, or strategic military locations.
 * Incorporate visualizations of economic indicators (e.g., index of liberalization, economic openness) 
 using data points, lines, or other shapes.
 
 **Three.js Integration:**
-
-Use Three.js to create the interactive globe visualization. Here's a basic example to get you started:
 
 ```javascript
 import * as THREE from 'three';
