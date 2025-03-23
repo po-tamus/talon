@@ -3,9 +3,7 @@ Interactive interface and visualization to global and economic political data.
 
 # REFORMAT
 Creating a 3D globe model that can display various political and economic data requires a combination of 
-geographical data, visualization techniques, and interactive programming. I'll outline an approach using 
-Three.js to create a dynamic globe model.
-
+geographical data, visualization techniques, and interactive programming.
 **Approach:**
 
 1. **Pre-built models vs. From Scratch:** Using pre-built models can save time and effort. However, 
